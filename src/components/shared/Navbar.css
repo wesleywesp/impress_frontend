@@ -1,0 +1,17 @@
+.badge {
+    font-size: 12px;
+    width: 18px;
+    height: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+  }
+  
+  .badge-adjust {
+    top: 3px; /* Ajuste vertical */
+    right: -05px; /* Ajuste horizontal */
+  }
+  
+  
+  
